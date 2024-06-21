@@ -9,16 +9,10 @@
   <h1>skills I want to learn</h1>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=kotlin" />
+      <img src="https://skillicons.dev/icons?i=kotlin,haskell" />
     </a>
   </p>
 
-  <h1>interested in(but Im not going to learn it)</h1>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=haskell" />
-    </a>
-  </p>
 <details>
   <summary><h1>contact<h1></summary> 
   <p align="center">
