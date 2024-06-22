@@ -7,6 +7,7 @@
   </p>
 
 <h2> contact </h2>
+
 [![Discord](https://discord.c99.nl/widget/theme-3/724520262787137556.png)](https://www.discord.com/users/724520262787137556)
 
   <h3>skills I want to learn</h3>
