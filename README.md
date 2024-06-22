@@ -18,6 +18,7 @@
   <p align="center">
     <a href="https://www.discord.com/users/724520262787137556">
       <img src="https://skillicons.dev/icons?i=discord" />
+      [![Discord](https://discord.c99.nl/widget/theme-3/724520262787137556.png)](https://www.discord.com/users/724520262787137556)
     </a>
   </p>
 </details>
